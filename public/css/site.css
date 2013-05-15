@@ -1,0 +1,13 @@
+body {
+  font-family: 'HelveticaNeueue', sans-serif;
+}
+
+#content_wrapper {
+  width: 100%;
+}
+
+h1 {
+  font-size: 128px;
+  text-align: center;
+  line-height: 1.5em;
+}
