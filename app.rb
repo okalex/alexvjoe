@@ -3,5 +3,5 @@ set :protection, except: :ip_spoofing
 
 get '/' do
   # Jsut a comment
-  erb :index, locals: {how_many: "a lot"}
+  erb :index, locals: {how_many: "a whole lot"}
 end
